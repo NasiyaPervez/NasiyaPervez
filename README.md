@@ -4,19 +4,18 @@ I'm **Nasiya Pervez** currently based in **Magdeburg, Germany**.
 
 About Me
 
-- 🔭 Business analyst — operations research, sales, and talent acquisition
-- 🎓 MSc **Operations Research & Business Analytics**, Otto von Guericke University Magdeburg (2024 – 2026)
+- 🔭 Business analyst — operations research, supply chain, logistics, sales, and talent acquisition
+- 🎓 MSc **Operations Research & Business Analytics**, Otto von Guericke University Magdeburg (2024 – 2027)
 - 📊 I turn complex data into smarter decisions: lead conversion, talent alignment, and operational choices
 - ⚡ Two years supporting B2B growth cycles — recruitment strategies and sales pipelines
 - 🌱 Building toward supply chain & logistics, where optimization meets real-world impact
 - 📚 Constant learning — currently SAP S/4HANA, optimization modelling, and German
-- 📬 Let's work together: perveznasiya@gmail.com
 
 ---
 
 ## What I do
 
-I design and solve optimization and analytics problems at the intersection of **operations research, scheduling, and business value**. My coursework covers the classic — and the modern — decision toolkit: MILP formulations solved with Gurobi, heuristics, simulation, reinforcement-learning policies, and applied econometrics — all written to run and be read.
+I design and solve optimization and analytics problems at the intersection of **operations research, supply chain, and business value**. My projects cover the classic and the modern decision toolkit: MILP formulations solved with Gurobi, heuristics, simulation, reinforcement learning policies, and applied econometrics — all written to run and be read.
 
 My work spans two worlds: the **data-driven business analyst** (sales, recruitment, lead conversion) and the **operations-research practitioner** (scheduling, logistics, and decision support).
 
@@ -30,7 +29,7 @@ My work spans two worlds: the **data-driven business analyst** (sales, recruitme
 | Heuristics (NEH, SPT, Fix-and-Optimize) | R · econometrics · ggplot2 | Monte Carlo | LP/MIP modelling |
 | Reinforcement Learning (Monte-Carlo RL) | SQL · databases | | |
 
-*Also learning:* SAP S/4HANA (Cloud Public Edition) · Streamlit · German 🇩🇪
+*Also learning:* SAP S/4HANA (Cloud Public Edition) · German 🇩🇪
 
 ---
 
@@ -83,4 +82,4 @@ I publish on **nasiyapervez.com** and Substack, where I explain the intuition be
 
 I'm excited about roles and collaborations that apply **optimization and analytics to real-world challenges** — especially in supply chain, logistics, and environments that value collaboration, innovation, and continuous learning.
 
-Email: **perveznasiya@gmail.com** · Web: **[nasiyapervez.com](https://nasiyapervez.com)**
+Web: **[nasiyapervez.com](https://nasiyapervez.com)**
