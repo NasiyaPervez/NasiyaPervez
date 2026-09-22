@@ -1,6 +1,6 @@
 ## hey there 👋👩‍💻
 
-I'm **Nasiya Pervez** from Pakistan, currently based in **Magdeburg, Germany**.
+I'm **Nasiya Pervez** currently based in **Magdeburg, Germany**.
 
 About Me
 
@@ -83,4 +83,4 @@ I publish on **nasiyapervez.com** and Substack, where I explain the intuition be
 
 I'm excited about roles and collaborations that apply **optimization and analytics to real-world challenges** — especially in supply chain, logistics, and environments that value collaboration, innovation, and continuous learning.
 
-Email: **perveznasiya@gmail.com** · Web: **[nasiyapervez.com](https://nasiyapervez.com)**
+Web: **[nasiyapervez.com](https://nasiyapervez.com)**
