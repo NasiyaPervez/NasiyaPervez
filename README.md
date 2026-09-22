@@ -1,6 +1,6 @@
-## hey there 👋👩‍💻
+## Hey there 👋👩‍💻
 
-I'm **Nasiya Pervez** from Pakistan, currently based in **Magdeburg, Germany**.
+I'm **Nasiya Pervez** currently based in **Magdeburg, Germany**.
 
 About Me
 
