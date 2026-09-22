@@ -5,7 +5,7 @@ I'm **Nasiya Pervez** currently based in **Magdeburg, Germany**.
 About Me
 
 - 🔭 Business analyst — operations research, supply chain, logistics, sales, and talent acquisition
-- 🎓 MSc **Operations Research & Business Analytics**, Otto von Guericke University Magdeburg (2024 – 2027)
+- 🎓 MSc **Operations Research & Business Analytics**, Otto von Guericke University Magdeburg (Expected:2027)
 - 📊 I turn complex data into smarter decisions: lead conversion, talent alignment, and operational choices
 - ⚡ Two years supporting B2B growth cycles — recruitment strategies and sales pipelines
 - 🌱 Building toward supply chain & logistics, where optimization meets real-world impact
