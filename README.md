@@ -61,7 +61,7 @@ My work spans two worlds: the **data-driven business analyst** (sales, recruitme
 
 ## 🎓 What I'm building on
 
-MSc Operations Research & Business Analytics — Otto von Guericke University Magdeburg · 2024 – 2027 (Expected)
+MSc Operations Research & Business Analytics — Otto von Guericke University Magdeburg 
 
 - Databases (SQL)
 - AI-Based Decision Support
